@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ermay12/house_bot_lambda_template#readme",
   "dependencies": {
+    "request": "^2.88.0",
     "request-promise": "^4.2.4"
   }
 }

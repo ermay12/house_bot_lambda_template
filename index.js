@@ -18,7 +18,7 @@ function sendHi(threadID, person) {
   console.log(`Sending hi to thread: ${threadID}`);
   return rp({
     method: "POST",
-    uri: config.botAddress + "/message",
+    uri: config.botAddress + "message",
     body: {
       password: config.password,
       message: getGreeting(person.split(" ")[0]),
