@@ -1,0 +1,22 @@
+{
+  "name": "house_bot_lambda_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ermay12/house_bot_lambda_template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ermay12/house_bot_lambda_template/issues"
+  },
+  "homepage": "https://github.com/ermay12/house_bot_lambda_template#readme",
+  "dependencies": {
+    "request-promise": "^4.2.4"
+  }
+}
